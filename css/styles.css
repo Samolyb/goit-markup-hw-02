@@ -1,6 +1,17 @@
 body{
 font-family: "Roboto", sans-serif;
+color: #434455;
 background-color: #FFFFFF;
+} 
+
+.header-menu-link{
+    color: #434455;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    background-color: #FFFFFF;
 } 
 
 .header-logo{
@@ -16,6 +27,16 @@ text-transform: uppercase;
 
 .header-logo-color{
     color:#2E2F42;
+}
+
+.address{
+color: #434455;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.02em;
 }
 
 .address-menu-link{
