@@ -1,16 +1,20 @@
+a{
+text-decoration: none;
+color: inherit;
+}
+
+ul,ol{
+    list-style-type: none;
+}
+
 body{
 font-family: "Roboto", sans-serif;
 color: #434455;
 background-color: #FFFFFF;
 } 
 
-.body:hover,
-.body:focus{
-   color: #404bbf;
-}
-
 .header{
-    background: #FFF;
+background-color: #FFF;
 }
 
 .header-menu-link {
@@ -45,17 +49,11 @@ text-transform: uppercase;
 }
 
 .address{
-color: #434455;
-font-family: "Roboto", sans-serif;
-font-size: 16px;
-font-style: normal;
-font-weight: 500;
-line-height: 1.5;
-letter-spacing: 0.02em;
+
 }
 
 .address-menu-link{
-color: #434455;
+
 font-size: 16px;
 font-style: normal;
 font-weight: 500;
@@ -65,7 +63,7 @@ letter-spacing: 0.02em;
 
 .address-menu-link :hover, 
 .address-menu-link :focus {
-    color:#434455;
+    color:#404bbf;
 }
 
 .hero{
