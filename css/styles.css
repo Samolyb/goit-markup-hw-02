@@ -72,14 +72,14 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.address-menu-item:hover{
+.address-menu-link:hover{
     color: #404bbf;
 }
-.address-menu-item:focus {
-color:#404bbf;
+.address-menu-link:focus {
+    color:#404bbf;
 }
 
-.address-menu-item:active {
+.address-menu-link:active {
     color: #404bbf;
 }
 
