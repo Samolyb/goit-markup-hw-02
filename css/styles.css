@@ -5,7 +5,7 @@ background-color: #FFFFFF;
 } 
 
 .header-menu-link {
-    color: #434455;
+    color: #2e2f42;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -20,7 +20,7 @@ background-color: #FFFFFF;
 }
 
 .header-menu-item{
-    color: #2e2f42;
+color: #2e2f42;
 }
 
 .header-logo{
@@ -112,6 +112,14 @@ font-style: normal;
 font-weight: 400;
 line-height: 1.5;
 letter-spacing: 0.02em;
+}
+
+.team{
+background-color: #F4F4FD;
+}
+
+.team-list{
+background-color: #FFFFFF;
 }
 
 .team-title{
