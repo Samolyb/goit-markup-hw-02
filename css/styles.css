@@ -72,11 +72,11 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
-.address-menu-link :hover{
+.address-menu-item:hover{
     color: #404bbf;
-} 
-.address-menu-link :focus {
-    color:#404bbf;
+}
+.address-menu-item:focus {
+color:#404bbf;
 }
 
 .hero{
