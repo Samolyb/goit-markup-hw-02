@@ -14,9 +14,8 @@ background-color: #FFFFFF;
 } 
 
 .header-menu-link:hover,
-.header-menu-link:focus{
-    color:#404bbf;
-    background-color: #FFFFFF;
+.header-menu-link:focus{  
+     color:#404bbf;
 }
 
 .header-menu-item{
