@@ -4,8 +4,13 @@ color: #434455;
 background-color: #FFFFFF;
 } 
 
+.body:hover,
+.body:focus{
+   color: #404bbf;
+}
+
 .header{
- background-color: #FFFFFF;
+    background: #FFF;
 }
 
 .header-menu-link {
