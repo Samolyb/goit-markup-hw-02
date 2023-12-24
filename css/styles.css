@@ -118,8 +118,12 @@ letter-spacing: 0.02em;
 background-color: #F4F4FD;
 }
 
+.team-item{
+    background-color: #FFFFFF
+}
+
 .team-list{
-background-color: #FFFFFF;
+    color: #FFFFFF;
 }
 
 .team-title{
