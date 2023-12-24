@@ -4,8 +4,8 @@ color: #434455;
 background-color: #FFFFFF;
 } 
 
-.header-menu-link{
-    color: #434455;
+.header-menu-link {
+    color: #2e2f42;
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -13,6 +13,11 @@ background-color: #FFFFFF;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
 } 
+
+.header-menu-link:hover,
+.header-menu-link:focus{
+    color:#404bbf;
+}
 
 .header-logo{
 color:#4D5AE5;
@@ -53,6 +58,21 @@ letter-spacing: 0.02em;
     color:#434455;
 }
 
+.hero{
+    color: #2e2f42;
+}
+
+.hero-title {
+color:  #ffffff;
+text-align: center;
+font-family: Roboto;
+font-size: 56px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em;
+}
+
 .hero-order-btn {
 color: #FFF;
 font-family: Roboto;
@@ -60,5 +80,12 @@ font-size: 16px;
 font-style: normal;
 font-weight: 500;
 line-height: 1.50;
-letter-spacing: 0.04;
+letter-spacing: 0.04em;
+background-color: #4D5AE5;
+cursor: pointer;
+}
+
+.hero-order-btn:hover,
+.hero-order-btn:focus{
+ background-color: #404BBF
 }
